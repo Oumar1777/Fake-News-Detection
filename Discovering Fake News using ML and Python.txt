@@ -1,0 +1,17 @@
+Discovering Fake News using ML and Python
+
+Do you trust all the news you hear from social media?
+How will you detect fake news?
+To make a difference between real and fake news, detect fake news from the attached dataset.
+
+Dataset description:
+The dataset we’ll use for this python project- we’ll call it somenews.csv. This dataset has a shape of 7796×4. The first column identifies the news, the second and third are the title and text, and the fourth column has labels denoting whether the news is REAL or FAKE.
+
+
+This challenge is designed to evaluate a few things, with roughly the priority below:
+
+your clarity in documenting and justifying your approach,
+your ability to craft clear, readable code,
+your choice of algorithms.
+
+Please send me back a zip file that contains your implementation files (exclude the dataset). 
